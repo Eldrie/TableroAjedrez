@@ -10,3 +10,6 @@ C:\Users\manolo\Documents\UGM\Ajedrez-master\Ajedrez-master\Objetos\obj\Debug\Ob
 C:\Users\manolo\Documents\UGM\Ajedrez-master\Ajedrez-master\Objetos\bin\Debug\Objetos.exe
 C:\Users\manolo\Documents\UGM\Ajedrez-master\Ajedrez-master\Objetos\bin\Debug\Objetos.pdb
 C:\Users\manolo\Documents\UGM\Ajedrez-master\Ajedrez-master\Objetos\obj\Debug\Objetos.csprojResolveAssemblyReference.cache
+C:\Users\manolo\Documents\GitHub\TableroAjedrez\Objetos\bin\Debug\Objetos.exe.config
+C:\Users\manolo\Documents\GitHub\TableroAjedrez\Objetos\obj\Debug\Objetos.exe
+C:\Users\manolo\Documents\GitHub\TableroAjedrez\Objetos\obj\Debug\Objetos.pdb

@@ -1,4 +1,5 @@
 ﻿using System;
+
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,7 @@ namespace Objetos
                 for (int k = 0; k <= 5342312; k++)
                 {
                     // Modificar coordenadas A-H && 1-8
+                    //Lectura de Coordenadas y ciclado con FOR
                     Console.Write("Escribe tus coordenas [fila] [columna]:  ");
                     string coordenadas = (Console.ReadLine());
 
@@ -23,8 +25,11 @@ namespace Objetos
                     int cf1=0;
                     
                     if (cf == 'A') { cf1 = 8; }
+                    if (cf == 'a') { cf1 = 8; }
                     if (cf == 'B') { cf1 = 7; }
+                    if (cf == 'b') { cf1 = 7; }
                     if (cf == 'C') { cf1 = 6; }
+                    if (cf == 'c') { cf1 = 6; }
                     if (cf == 'D') { cf1 = 5; }
                     if (cf == 'E') { cf1 = 4; }
                     if (cf == 'F') { cf1 = 3; }
