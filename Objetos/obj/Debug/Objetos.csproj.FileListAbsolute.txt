@@ -1,0 +1,12 @@
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\Objetos\bin\Debug\Objetos.exe.config
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\Objetos\obj\Debug\Objetos.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\Objetos\bin\Debug\Objetos.exe
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\Objetos\bin\Debug\Objetos.pdb
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\Objetos\obj\Debug\Objetos.exe
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\Objetos\obj\Debug\Objetos.pdb
+C:\Users\manolo\Documents\UGM\Ajedrez-master\Ajedrez-master\Objetos\bin\Debug\Objetos.exe.config
+C:\Users\manolo\Documents\UGM\Ajedrez-master\Ajedrez-master\Objetos\obj\Debug\Objetos.exe
+C:\Users\manolo\Documents\UGM\Ajedrez-master\Ajedrez-master\Objetos\obj\Debug\Objetos.pdb
+C:\Users\manolo\Documents\UGM\Ajedrez-master\Ajedrez-master\Objetos\bin\Debug\Objetos.exe
+C:\Users\manolo\Documents\UGM\Ajedrez-master\Ajedrez-master\Objetos\bin\Debug\Objetos.pdb
+C:\Users\manolo\Documents\UGM\Ajedrez-master\Ajedrez-master\Objetos\obj\Debug\Objetos.csprojResolveAssemblyReference.cache
